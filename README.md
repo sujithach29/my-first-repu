@@ -1,2 +1,2 @@
-# my-first-repu
+# my-first-repo
 Data science 
